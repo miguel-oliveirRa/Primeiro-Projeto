@@ -550,8 +550,8 @@ video {
   height: 13rem;
 }
 
-.h-\[525px\] {
-  height: 525px;
+.h-\[534px\] {
+  height: 534px;
 }
 
 .h-full {
@@ -560,38 +560,6 @@ video {
 
 .h-screen {
   height: 100vh;
-}
-
-.h-\[\] {
-  height: ;
-}
-
-.h-\[\/\] {
-  height: /;
-}
-
-.h-\[\/600\] {
-  height: /600;
-}
-
-.h-\[\/600px\] {
-  height: /600px;
-}
-
-.h-\[600px\] {
-  height: 600px;
-}
-
-.h-\[550px\] {
-  height: 550px;
-}
-
-.h-\[530px\] {
-  height: 530px;
-}
-
-.h-\[534px\] {
-  height: 534px;
 }
 
 .w-36 {
